@@ -1,0 +1,16 @@
+{
+  "name": "tangent",
+  "version": "1.0.0",
+  "description": "3 to 4 axis gcode for tangential knife operations optimized for tinyG by way of ChiliPeppr",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rose Buttress",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "2.4.2",
+    "chokidar": "^3.5.3",
+    "fs": "^0.0.1-security"
+  }
+}
